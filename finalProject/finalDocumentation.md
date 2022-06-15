@@ -3,7 +3,7 @@
 ---
 
 ### Introduction
-C.A.R.A is an Augmented Reality solution for a traditional museum to help engage youth of ages 16-20, which have a short attention span. The product employs technology such as the tablet and Arduino. The tablet is used for Augmented Reality elements, which provide features to the user such as zooming and rotating the historical object while the Arduino provides a “Push Button” switch which changes the complexity of the information provided about the historical object. Through these interactions, we allow the user to have control over the experience they want to have during the museum tour. 
+C.A.R.A is an Augmented Reality solution for a traditional museum to help engage youth of ages 16-20, which have a short attention span. The product employs technology such as the tablet and Arduino. The tablet is used for Augmented Reality elements, which provide features to the user such as zooming and rotating the historical object while the Arduino provides a “Push Button” switch which allows the user to access options like feedback and assistance. Through these interactions, we allow the user to have control over the experience they want to have during the museum tour. 
 
 ---
 
