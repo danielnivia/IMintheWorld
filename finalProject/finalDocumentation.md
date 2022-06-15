@@ -5,10 +5,12 @@ C.A.R.A is an Augmented Reality solution for a traditional museum to help engage
 
 ### Methodology
 **Augmented Reality Part**
+
 Through Photogrammetry of the historical objects and rendering them in the “Agisoft Metashape,” we will create the 3D models to run in “Unity,” allowing the user to rotate and zoom in the object. The user at the museum will be scanning a QR code to load the object into the tablet. Near the object there will be touch screen buttons for the information to be displayed about the object. 
 The user will be able to change the amount of information that will be displayed about the object. The features of zooming and rotating will still be available but more information buttons will appear on the tablet screen. 
 
 **Arduino Part**
+
 Soldered Arduino will be set up in each station with a couple of push buttons. One of them is to receive assistance in case the program or tablet malfunctions. Another button will allow the user to provide feedback to the museum. 
 
 ### Final Remarks
