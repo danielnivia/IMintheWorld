@@ -1,2 +1,3 @@
-# IMintheWorld
-Final Project Repository for the June Term Interactive Media in the World taught by professor Michael Shiloh in NYU Tel Aviv.
+# Interactive Media in the World
+
+Final Project Repository for the NYU Abu Dhabi June Term Interactive Media in the World taught by Professor Michael Shiloh in NYU Tel Aviv.
